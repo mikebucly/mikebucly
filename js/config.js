@@ -13,7 +13,7 @@ var l_serverImage = "";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "";
+var l_serverName = "MANATEE";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -44,7 +44,7 @@ Avaiable options:
 
 You can add custom backgrounds
 Just make sure it is at webm VP8 format */
-var l_background = "backgrounds/videos/background.webm";
+var l_background = "backgrounds/videos/background.mp4";
 
 /*(Image-background only)
 Place one or more images
